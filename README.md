@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nky-portfolio.netlify.app/](https://nky-portfolio.netlify.app/)
 
-- 📫 How to reach me **nky_88@hotmail.com**
+- 📫 How to reach me: **nky_88@hotmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 
