@@ -3,18 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mattn4&label=Profile%20views&color=0e75b6&style=flat" alt="Mattn4" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nky-portfolio.netlify.app/](https://nky-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nky-portfolio.netlify.app/](https://nky-portfolio.netlify.app/){:target="_blank" rel="noopener"}
 
 - 📫 How to reach me: **nky_88@hotmail.com**
 
 <h3 align="left">Projects:</h3>
 
-- E-commerce web app &ensp;[Website](https://gensg-final-project.up.railway.app/home.html) &ensp;[GitHub](https://github.com/Mattn4/GenSG-Final-Project)
-- Jammming Playlist App &ensp;[Website](https://nky-jammming.surge.sh/)
-- To-Do List API &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Spring-Boot-Assessment)
-- Course enrolment program &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Assessment_StudentGen_project)
-- Find the hat game &ensp;[GitHub](https://github.com/Mattn4/GenSG-JavaScript-assessment_Find_Your_Hat_Game)
-- Responsive website &ensp;[Website](https://mattn4.github.io/GenSG-HTML-CSS-assessment_Responsive_Website/) &ensp;[GitHub](https://github.com/Mattn4/GenSG-HTML-CSS-assessment_Responsive_Website)
+- E-commerce web app &ensp;[Website](https://gensg-final-project.up.railway.app/home.html){:target="_blank" rel="noopener"} &ensp;[GitHub](https://github.com/Mattn4/GenSG-Final-Project){:target="_blank" rel="noopener"}
+- Jammming Playlist App &ensp;[Website](https://nky-jammming.surge.sh/){:target="_blank" rel="noopener"}
+- To-Do List API &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Spring-Boot-Assessment){:target="_blank" rel="noopener"}
+- Course enrolment program &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Assessment_StudentGen_project){:target="_blank" rel="noopener"}
+- Find the hat game &ensp;[GitHub](https://github.com/Mattn4/GenSG-JavaScript-assessment_Find_Your_Hat_Game){:target="_blank" rel="noopener"}
+- Responsive website &ensp;[Website](https://mattn4.github.io/GenSG-HTML-CSS-assessment_Responsive_Website/){:target="_blank" rel="noopener"} &ensp;[GitHub](https://github.com/Mattn4/GenSG-HTML-CSS-assessment_Responsive_Website){:target="_blank" rel="noopener"}
 
 <h3 align="left">Languages and Tools:</h3>
 
