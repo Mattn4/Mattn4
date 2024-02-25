@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mattn4&label=Profile%20views&color=0e75b6&style=flat" alt="Mattn4" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nky-portfolio.netlify.app/](https://nky-portfolio.netlify.app/){:target="_blank" rel="noopener"}
+- 👨‍💻 All of my projects are available at <a href="https://nky-portfolio.netlify.app/" target="_blank">https://nky-portfolio.netlify.app/</a>
 
 - 📫 How to reach me: **nky_88@hotmail.com**
 
 <h3 align="left">Projects:</h3>
 
-- E-commerce web app &ensp;[Website](https://gensg-final-project.up.railway.app/home.html){:target="_blank" rel="noopener"} &ensp;[GitHub](https://github.com/Mattn4/GenSG-Final-Project){:target="_blank" rel="noopener"}
+- E-commerce web app &ensp;<a href="https://gensg-final-project.up.railway.app/home.html" target="_blank">Website</a> &ensp;<a href="https://github.com/Mattn4/GenSG-Final-Project" target="_blank">GitHub</a>
 - Jammming Playlist App &ensp;[Website](https://nky-jammming.surge.sh/){:target="_blank" rel="noopener"}
 - To-Do List API &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Spring-Boot-Assessment){:target="_blank" rel="noopener"}
 - Course enrolment program &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Assessment_StudentGen_project){:target="_blank" rel="noopener"}
