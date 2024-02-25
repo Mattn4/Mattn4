@@ -7,6 +7,15 @@
 
 - 📫 How to reach me: **nky_88@hotmail.com**
 
+<h3 align="left">Projects:</h3>
+
+- E-commerce web app &ensp;[Website](https://gensg-final-project.up.railway.app/home.html) &ensp;[GitHub](https://github.com/Mattn4/GenSG-Final-Project)
+- Jammming Playlist App &ensp;[Website](https://nky-jammming.surge.sh/)
+- To-Do List API &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Spring-Boot-Assessment)
+- Course enrolment program &ensp;[GitHub](https://github.com/Mattn4/GenSG-Java-Assessment_StudentGen_project)
+- Find the hat game &ensp;[GitHub](https://github.com/Mattn4/GenSG-JavaScript-assessment_Find_Your_Hat_Game)
+- Responsive website &ensp;[Website](https://mattn4.github.io/GenSG-HTML-CSS-assessment_Responsive_Website/) &ensp;[GitHub](https://github.com/Mattn4/GenSG-HTML-CSS-assessment_Responsive_Website)
+
 <h3 align="left">Languages and Tools:</h3>
 
 <!--
